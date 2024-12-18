@@ -1,0 +1,16 @@
+{
+  "name": "todolist-backend",
+  "version": "1.0.0",
+  "description": "Backend para gerenciamento de tarefas",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
