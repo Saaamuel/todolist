@@ -1,0 +1,1 @@
+//Configura as rotas e middlewares 
